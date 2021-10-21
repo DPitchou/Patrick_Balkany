@@ -51,4 +51,3 @@ print("id:")
 liste_point[-1].get_id()
 print("total")
 liste_point[-1].get_total()
-
