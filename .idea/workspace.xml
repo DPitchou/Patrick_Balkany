@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c851151-7458-43b7-827a-5d54d994ae2f" name="Changes" comment="TP4">
-      <change afterPath="$PROJECT_DIR$/TP07/Class.py" afterDir="false" />
+    <list default="true" id="2c851151-7458-43b7-827a-5d54d994ae2f" name="Changes" comment="TP7 chelou">
+      <change afterPath="$PROJECT_DIR$/TP08/polygone_triangle.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +36,7 @@
       <recent name="C:\Users\louan\OneDrive - IPSA\IPSA\Aéro 2\Programation\in211\TP05" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Class">
+  <component name="RunManager" selected="Python.polygone_triangle">
     <configuration name="Class" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="in211" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -100,6 +100,48 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="polygone_triangle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="in211" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TP08" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TP08/polygone_triangle.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="in211" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TP03" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TP03/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="tp4_point" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="in211" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -123,6 +165,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.polygone_triangle" />
+        <item itemvalue="Python.test" />
         <item itemvalue="Python.tp4_point" />
         <item itemvalue="Python.application" />
         <item itemvalue="Python.Test" />
@@ -159,7 +203,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634804824116</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="TP7 chelou">
+      <created>1636986470880</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1636986470880</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -178,6 +229,7 @@
     <MESSAGE value="Trash zip" />
     <MESSAGE value="TP5" />
     <MESSAGE value="TP4" />
-    <option name="LAST_COMMIT_MESSAGE" value="TP4" />
+    <MESSAGE value="TP7 chelou" />
+    <option name="LAST_COMMIT_MESSAGE" value="TP7 chelou" />
   </component>
 </project>
