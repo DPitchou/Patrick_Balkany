@@ -20,6 +20,8 @@ class Triangle(Polygone):
         a, b, c = self.sides
         if (a + b) > c and (a + c) > b and (b + b) > a:
             print('Le triangle est valide')
+        else:
+            print("Le triangle n'est pas un triangle")
 
     def findArea(self):
         a, b, c = self.sides
