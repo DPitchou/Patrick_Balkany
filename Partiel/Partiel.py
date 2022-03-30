@@ -1,5 +1,5 @@
 #EX 1
-def foo(tab, n):
+'''def foo(tab, n):
     z = 0
     for i in tab:
         print(i)
@@ -20,4 +20,19 @@ class A:
             return len(self.__tab)
 
 a = A([1,2,3,4,5],5)
-print(a.foo())
+print(a.foo())'''
+
+class MaClasse:
+    x = 10
+    y = x + 5
+    print(x, y)
+    def up(self):
+        MaClasse.x += 10
+        MaClasse.y = MaClasse.x + 5
+        print(MaClasse.x, MaClasse.y)
+
+
+a = MaClasse()
+b = MaClasse()
+b.up()
+print(a.x, a.y)
